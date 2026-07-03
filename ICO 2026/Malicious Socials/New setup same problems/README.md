@@ -4,7 +4,7 @@ ctf: "ICO 2026"
 task: "Malicious Socials"
 date: 2026-06-29
 category: forensics
-difficulty: ?
+difficulty: "?"
 points: GUESS category. Disk forensics — evidence was an EnCase image (artifacts_1.E01) + CSV export. No solve script archived. Name confirmed from scoreboard log.
 flag_format: "ICO{...}"
 author: "jt314"

@@ -4,7 +4,7 @@ ctf: "ICO 2026"
 task: "Malicious Socials"
 date: 2026-06-29
 category: osint
-difficulty: ?
+difficulty: "?"
 points: GUESS category. Intro subtask — no artifacts archived locally (likely OSINT/recon). Name confirmed from scoreboard log.
 flag_format: "ICO{...}"
 author: "jt314"
